@@ -1,50 +1,49 @@
 # Laboratoire 1
-Énoncé: Comprendre la plateforme Arduino
+Énoncé: Soudure Through-hole et fillage
 
 Pondération:
 - Partie 1: 0%
 - Partie 2: 30%
-- Partie 3: 30%
-- Partie 4: 40%
+- Partie 3: 70%
 
-## Matériels
-- 1 X Arduino Mega 2560 Rev3
-- 1 X Fils USB (Type A -- Type B)
-- 1 X PLaquette de montage
-- 1 X Interrupteur de type bouton poussoir
-- 1 X Resistance de 220 Ω
-- 1 X Resistance de ~20 kΩ
-- 1 X DEL rouge
-- 1 X Potentiomètre de 10 kΩ
-- Fils de prototypage (Environ 12)
+## Matériels (A vérifier début de session)
+- Fil unibrin
+- Fil multibrin
+- Heatshrink
+- 1 X Plaquette de PCB Through-Hole vide
+- 1 X 7805
+- 1 X 555 Format DIP
+- 2 X Resistance de 100kΩ
+- 1 X Condensateur Electrolytique 10uF
+- 1 X DEL (Peu importe la couleur)
+- 1 X Header 20 positions (2X10)
 
 ## Équipements:
-- Oscilloscope
+- fer à souder
+- Pompe a déssouder
+- Tresse à déssouder
 - Multimètre
-- Sonde d'oscilloscope
 - Kit de l'étudiant
 
 
 ## Datasheets
-- atmel-2549-8-bit-avr-microcontroller-atmega640-1280-1281-2560-2561_datasheet.pdf
-- arduino-mega-2560-datasheet.pdf
+- LM7805.pdf
+- lm555.pdf
 
 
 ## Pinout
-- arduino-mega2560-pinout.pdf
-- arduino-mega2560-schematic.pdf
+---
 
 
 #### Partie 1:
 - Comprendre comment accéder au Github
-- Comprendre l'interface Arduino
-- Connaître les I/O du AtMega
 
 #### Partie 2:
-- Exemple minimaliste
+- Analyse de signaux sur l'oscilloscope
 
 #### Partie 3:
-- Exemple Pulse Width Modulation
+- Fillage et heatshrink
 
 #### Partie 4:
-- Communication intermatérielle
+- Composant Through-hole
+
