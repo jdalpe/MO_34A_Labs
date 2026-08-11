@@ -86,22 +86,102 @@ Section `D`.
 > - En bas pour la mise à la terre
 > 
 > Le signal devrait être de 0 à 3V en onde carré de 1kHz
+> 
+> Il y a aucun signal? Peser sur `Auto Setup`
+> 
+> Le signal n'est pas de 3V? Placer la sonde en mode X1 (Le sélecteur rouge sur la sonde)
+
 
 ## Division temps et tension
 
-TODO: control signal size
+Les informations sur le signal se trouve en dessous de votre signal. 
 
-## Interface principal
+![](gui/SDS2104X_Plus_PNG_1.png)
 
-TODO: 1 signal or dual view ideal for triggers
+Dans la section `B`, nous avons l'ensemble des options les plus utilisé pour modifier les signaux.
+
+Nous avons la composante horizontale (Le temps) et la vertical (La tension)
+
+#### Tension / Vertical
+
+Le potentiomètre (knob) de V <-> mV est un outil utile pour contrôler la section prise par votre signal.
+
+Le potentiomètre (knob) de Zero permet de contrôler l'emplacement.
+
+> $\color{gray}{\text{MANIPULATION}}$ **2 Signaux**
+>
+> Brancher 2 sondes dans la section `D` de l'oscilloscope.
+> 
+> - En haut pour les sonde
+> - En bas pour la mise à la terre
+> 
+> Le signal devrait être de 0 à 3V en onde carré de 1kHz
+> 
+> Avec la section vertical, placer 2 signaux non-superposés
+
+![](gui/SDS2104X_Plus_PNG_3.png)
+
+
+## Touchscreen et curseurs
+
+L'oscilloscope que vous avez vient avec un mode `touchscreen`, assurez-vous que le bouton `touch` est bien illuminé pour pouvoir l'utiliser.
+
+L'ensemble des options avec boutons est disponible en mode `touchscreen`. Les curseurs sont très simple a visualiser avec cette option. 
+
+Vous pouvez aussi utiliser l'écran pour bouger les curseurs, OU le potentiomètre (knob) `universal`.
+
+> $\color{gray}{\text{MANIPULATION}}$ **Tension**
+>
+> Avec l'aide des curseur en `Y`, mesurer la tension du signal 1.
+>
+>
+
 
 ## Auto
 
-TODO: The magic and curse of auto
+Le bouton `Auto Setup` sera l'option le plus utile et le moins utile à la fois. Si vous ne trouvez pas votre signal, peser dessus et l'oscilloscope essayera de la trouver.
+
+Si vous l'avez trouver, modifier toujours manuellement pour vos besoins. Dans le cadre de notre cours, les trames de données ou l'horloge du signals est souvent répéter. Utilser `Auto Setup` dans ce contexte fonctionne très bien pour 90% des cas.
 
 ## Trigger mode
 
-TODO: Must used mode: trigger on rising or falling
-TODO: Size of signal
+Un `Trigger` c'est un point de référence. Il y a 3 modes:
+
+- Normal: Le signal sera échantillionné en tout temps, mais sera sur pause quand la tension ne sera plus détecté.
+- Single: Le signal sera échantillionné à partir d'un changement de tension (Rising/Falling Slope)
+- Auto: Le signal sera échantillionné en tout temps, même en cas d'absence de voltage.
+
+Le `Trigger` sera aussi sur un seul signal, par défaut sur `1`.
+
+> $\color{gray}{\text{MANIPULATION}}$ **Trigger Single**
+>
+> Enlever les sondes des plaques `D`. (Garder le GND)
+>
+> Placer l'oscilloscope en mode trigger `Single`.
+>
+> Rebrancher la sonde.
+>
+> La flèche blue au dessus du graphique présente l'entrée du signal.
+>
 
 
+![](gui/SDS2104X_Plus_PNG_5.png)
+
+
+## Sauvegarder une image
+
+L'ensemble des images ci-dessus ont été capturé sur l'oscilloscope. Pour sauvegarder une image:
+
+- Brancher une clé USB dans un des 2 USBs
+- Bouton `Save/Recall`
+- Sélection:
+	- Mode: save
+	- Type: PNG ou JPG
+	- Image style:
+		- Normal pour fond noir
+		- Inversed pour fond blanc
+	- Include menu: Si vous voulez
+	- Path tips: None
+	- Ouvrir File Manager
+- Naviguer à votre clé USB
+- Appuyer sur `Save` pour un nom auto généré ou `Save As` pour avoir un clavier
