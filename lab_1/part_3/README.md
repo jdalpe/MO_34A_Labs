@@ -11,21 +11,27 @@
 Préparer votre fer à souder:
 
 - Mouiller votre éponge
+
 ![](gui/eponge.jpg)
 
 - Placer votre hotte de travail (Tube de ventilation)
+
 ![](gui/vanopen.jpg)
 
 - Insérer votre pointe (Pour le cours du 21, embout **bleu**)
+
 ![](gui/tip.jpg)
 
 - Préparer votre 3ième main pour tenir vos fils
+
 ![](gui/3ieme.jpg)
 
 Seasonning:
+
 ![](gui/unseasoned.jpg)
 ![](gui/solder.jpg)
 ![](gui/seasoned.jpg)
+
 Préparer les 2 côtés pour faciliter la soudure
 
 **NOTE** Les exemples ici seront sans flux, le but est de voir et de comprendre l'apposition de l'étain sur les divers type de configuration. Pour les prochains laboratoires, nous allons utiliser le flux pour `faciliter` cette étape. Votre étain utilise aussi un flux core (à 2.5%) qui aide au transfert de température.
