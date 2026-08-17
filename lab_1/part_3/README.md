@@ -61,7 +61,7 @@ Et faire de l'autre côté:
 
 ![](gui/mono_side_b.jpg)
 
-*IMPORTANT*: les 2 côtés seront nécessaire pour un `gauge` de cette taille ou plus grand. 
+*IMPORTANT*: les 2 côtés seront nécessaire pour un calibre/`gauge` de cette taille ou plus grand. 
 
 
 > $\color{gray}{\text{MANIPULATION}}$ **Soudure Mono Brin Parallèle**
@@ -82,7 +82,7 @@ Couvrir votre soudure avec une gaine thermo (heatshrink) est un standard de l'in
 
 > $\color{darkred}{\text{À VÉRIFIER}}$ **Heatshrink Mini brin parallèle**
 > 
-> Pouvez-vous installer la rouge? Sinon la noir. (Attendre que le fil soit moins chaud)
+> Pouvez-vous installer la rouge? Sinon la noire (Attendre que le fil soit moins chaud)
 > 
 > Utiliser le pistolet thermique sur la station de l'enseignant pour votre évaluation.
 > 
