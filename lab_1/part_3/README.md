@@ -51,12 +51,14 @@ Quelques désavantages:
 
 - Non malléable (Un choix de heatshrink plus grand est souvent nécessaire)
 - Facile a mal dégainer le fil
+
 ![](gui/badcut.jpg)
 
 
 ## Méthode Parallèle
 
 Si on veut minimiser l'espace de réparation des fils, nous allons souder de façon parallèle.
+
 ![](gui/monoalign.jpg)
 
 Sans enrouler le fil, l'espace utiliser sera minimal, mais la soudure se fera en 2 étapes:
@@ -196,6 +198,7 @@ Non-uniforme: $\color{darkred}{\text{À éviter}}$
 ![](gui/enroll_a.jpg)
 
 Uniforme: $\color{darkgreen}{\text{Idéal}}$
+
 ![](gui/enroll_b.jpg)
 
 Toujours une bonne habitude de vérifier les 2 côtés (Surtout pour du gros calibre/`gauge`)
