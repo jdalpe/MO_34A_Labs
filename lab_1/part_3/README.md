@@ -19,6 +19,9 @@ Préparer votre fer à souder:
 - Insérer votre pointe (Pour le cours du 21, embout **bleu**)
 ![](gui/tip.jpg)
 
+- Préparer votre 3ième main pour tenir vos fils
+![](gui/3ieme.jpg)
+
 Seasonning:
 ![](gui/unseasoned.jpg)
 ![](gui/solder.jpg)

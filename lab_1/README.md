@@ -13,6 +13,7 @@ Pondération:
 - Heatshrink (Le noir, 50cm)
 - Point de fer à souder
 - Kit de soudure
+- Troisième main
 
 
 ## Équipements:
