@@ -195,6 +195,7 @@ Couvrir la soudure avec une gaine thermo (heatshrink), prendre la gaine **noire*
 - Souder la section croisée uniforme
 
 Non-uniforme: $\color{darkred}{\text{À éviter}}$
+
 ![](gui/enroll_a.jpg)
 
 Uniforme: $\color{darkgreen}{\text{Idéal}}$
