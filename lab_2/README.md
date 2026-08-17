@@ -8,15 +8,13 @@ Pondération:
 - Partie 4: 40%
 
 ## Matériels
-- 1 X Arduino Mega 2560 Rev3
-- 1 X Fils USB (Type A -- Type B)
-- 1 X PLaquette de montage
-- 1 X Interrupteur de type bouton poussoir
-- 1 X Resistance de 220 Ω
-- 1 X Resistance de ~20 kΩ
-- 1 X DEL rouge
-- 1 X Potentiomètre de 10 kΩ
-- Fils de prototypage (Environ 12)
+- 1 X Plaquette de PCB Through-Hole vide
+- 1 X 7805
+- 1 X 555 Format DIP
+- 2 X Resistance de 100kΩ
+- 1 X Condensateur Electrolytique 10uF
+- 1 X DEL (Peu importe la couleur)
+- 1 X Header 20 positions (2X10)
 
 ## Équipements:
 - Oscilloscope
@@ -26,8 +24,8 @@ Pondération:
 
 
 ## Datasheets
-- atmel-2549-8-bit-avr-microcontroller-atmega640-1280-1281-2560-2561_datasheet.pdf
-- arduino-mega-2560-datasheet.pdf
+- LM7805.pdf
+- lm555.pdf
 
 
 ## Pinout

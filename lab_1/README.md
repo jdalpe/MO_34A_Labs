@@ -3,32 +3,27 @@
 
 Pondération:
 - Partie 1: 0%
-- Partie 2: 30%
-- Partie 3: 70%
+- Partie 2: 50%
+- Partie 3: 50%
 
 ## Matériels (A vérifier début de session)
-- Fil unibrin
-- Fil multibrin
-- Heatshrink
-- 1 X Plaquette de PCB Through-Hole vide
-- 1 X 7805
-- 1 X 555 Format DIP
-- 2 X Resistance de 100kΩ
-- 1 X Condensateur Electrolytique 10uF
-- 1 X DEL (Peu importe la couleur)
-- 1 X Header 20 positions (2X10)
+- Fil unibrin (18 - 50cm)
+- Fil multibrin (18 - 50cm)
+- Heatshrink (Le rouge pour gauge 18, 50cm)
+- Heatshrink (Le noir, 50cm)
+- Point de fer à souder
+- Kit de soudure
+
 
 ## Équipements:
-- fer à souder
-- Pompe a déssouder
-- Tresse à déssouder
+- Fer à souder
 - Multimètre
+- Oscilloscope
 - Kit de l'étudiant
 
 
 ## Datasheets
-- LM7805.pdf
-- lm555.pdf
+---
 
 
 ## Pinout
@@ -42,8 +37,6 @@ Pondération:
 - Analyse de signaux sur l'oscilloscope
 
 #### Partie 3:
-- Fillage et heatshrink
+- Filages et heatshrink
 
-#### Partie 4:
-- Composant Through-hole
 
