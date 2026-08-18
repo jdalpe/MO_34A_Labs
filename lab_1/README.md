@@ -1,5 +1,5 @@
 # Laboratoire 1
-Énoncé: Soudure Through-hole et fillage
+Énoncé: Équipement et fillage
 
 Pondération:
 - Partie 1: 0%
@@ -13,7 +13,7 @@ Pondération:
 - Heatshrink (Le noir, 50cm)
 - Point de fer à souder
 - Kit de soudure
-- Troisième main
+- Troisième main/étau
 
 
 ## Équipements:

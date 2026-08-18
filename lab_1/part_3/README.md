@@ -222,3 +222,6 @@ Toujours une bonne habitude de vérifier les 2 côtés (Surtout pour du gros cal
 > Utiliser le pistolet thermique sur la station de l'enseignant pour votre évaluation
 > 
 
+> $\color{darkgreen}{\text{QUESTIONS}}$ **Remettez le document questions.docx rempli via Teams**
+>
+> Laboratoire 1 fini!
