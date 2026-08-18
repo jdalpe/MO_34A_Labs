@@ -1,7 +1,7 @@
 # Laboratoire 2 / Partie 2
 
 
-## Partie 1:
+## Partie 2:
 - Plan de défectuosité
 
 
