@@ -1,48 +1,31 @@
-# Laboratoire 1
-Énoncé: Comprendre la plateforme Arduino
+# Laboratoire 2
+Énoncé: Désoudure et plan de défectuosité
 
 Pondération:
-- Partie 1: 0%
-- Partie 2: 30%
-- Partie 3: 30%
-- Partie 4: 40%
+- Partie 1: 66%
+- Partie 2: 34%
 
 ## Matériels
-- 1 X Plaquette de PCB Through-Hole vide
-- 1 X 7805
-- 1 X 555 Format DIP
-- 2 X Resistance de 100kΩ
-- 1 X Condensateur Electrolytique 10uF
-- 1 X DEL (Peu importe la couleur)
-- 1 X Header 20 positions (2X10)
+- Point de fer à souder
+- Kit de soudure
+- Troisième main/étau
+- Un PCB avec composants aux hazards / Carte mère
 
 ## Équipements:
-- Oscilloscope
 - Multimètre
-- Sonde d'oscilloscope
 - Kit de l'étudiant
 
 
 ## Datasheets
-- LM7805.pdf
-- lm555.pdf
+---
 
 
 ## Pinout
-- arduino-mega2560-pinout.pdf
-- arduino-mega2560-schematic.pdf
+---
 
 
 #### Partie 1:
-- Comprendre comment accéder au Github
-- Comprendre l'interface Arduino
-- Connaître les I/O du AtMega
+- Désoudure
 
 #### Partie 2:
-- Exemple minimaliste
-
-#### Partie 3:
-- Exemple Pulse Width Modulation
-
-#### Partie 4:
-- Communication intermatérielle
+- Plan de défectuosité
