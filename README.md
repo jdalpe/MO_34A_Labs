@@ -25,29 +25,35 @@ Voici les codes:
 ## Laboratoire 1
 Dossier: lab_1
 
-Énoncé: Soudure Through-hole et fillage
+Énoncé: Équipement et fillage
 
 ## Laboratoire 2
 Dossier: lab_2
 
-Énoncé: Soudure Surface Mount
+Énoncé: Désoudure et plan de défectuosité
 
 ## Laboratoire 3
 Dossier: lab_3
 
-Énoncé: Soudure Surface Mount avec pâte à souder
+Énoncé: Soudure Through-Hole
 
 ## Laboratoire 4
 Dossier: lab_4
 
-Énoncé: Test Points et édition de PCBs
+Énoncé: Soudure Surface Mount
 
-## Projet 1
+## Laboratoire 5
+Dossier: lab_5
+
+Énoncé: Soudure Surface Mount avec pâte
+
+## Laboratoire 6
+Dossier: lab_6
+
+Énoncé: Modification de circuits
+
+
+## Projet 1 (Projet Final)
 Dossier: project_1
 
-Énoncé: Compteur Surface Mount sur PCB et édition de traces
-
-## Projet 2 (Projet Final)
-Dossier: project_2
-
-Énoncé: Arduino Shield
+Énoncé: Arduino Nano style Shield
