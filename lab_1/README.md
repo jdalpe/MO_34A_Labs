@@ -3,8 +3,8 @@
 
 Pondération:
 - Partie 1: 0%
-- Partie 2: 50%
-- Partie 3: 50%
+- Partie 2: 0%
+- Partie 3: 100%
 
 ## Matériels (A vérifier début de session)
 - Fil unibrin (18 - 50cm)
