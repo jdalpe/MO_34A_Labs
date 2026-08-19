@@ -8,7 +8,7 @@
 
 # But de l'exercise
 
-Déssouder un circuit est beaucoup plus rare comme manipulation que l'inverse. En effet, un technicien/ne aura un ratio de 1:10 ou même plus pour effectuer une réparation selon le domaine.
+Dessouder un circuit est beaucoup plus rare comme manipulation que l'inverse. En effet, un technicien/ne aura un ratio de 1:10 ou même plus pour effectuer une réparation selon le domaine.
 
 En tant que technicien/ne dans une entreprise, le but est de construire un maximum de circuits avec un taux d'échec minimal (Appeler `yield`). 
 
@@ -84,7 +84,7 @@ Voici un exemple sur un composant à plusieurs pin Surface-Mount (Avec pistolet 
 
 ![](gui/heat_solder_soic.jpg)
 
-- Utiliser le pistolet thermique et placer vos pinces pour pouvoir retirer le composant (idéalement, ne pas appliquer de force sur les pin, juste le contenant noir)
+- Utiliser le pistolet thermique et placer vos pinces pour pouvoir retirer le composant (idéalement, ne pas appliquer de force sur les pins, juste le boitier noir)
 
 ![](gui/tweezer_soic.jpg)
 
@@ -131,13 +131,15 @@ Voici un exemple sur un composant de type Through-hole
 
 - Soudure en surplus
 
-- Avec des pinces de précision `tweezer`, tenir la pièce
+- Avec des pinces de précision (`tweezer`), tenir la pièce
 
 - Appliquer le bec du pistolet
 
 ![](gui/del_heated.jpg)
 
 - Au moment ou l'étain devient mou, activer la suction et tirer avec vos pinces
+
+- Répeter pour l'ensemble des pins
 
 ![](gui/del_after.jpg)
 
@@ -163,15 +165,15 @@ Voici un exemple sur un composant de type Through-hole
 
 - Préparer votre pointe de fer à souder (`seasoned`) et vidé votre pompe manuelle
 
-- Ajouter un peu d'étain sur la broche à enlever
+- Ajouter un peu d'étain sur les broches (`pins`) à enlever
 
-- Avec des pinces de précision `tweezer`, tenir la pièce
+- Avec des pinces de précision (`tweezer`), tenir la pièce
 
-- Appliquer le fer à souder
+- Appliquer le fer à souder sur l'ensemble des broches (`pins`)
 
 - Au moment ou l'étain devient mou, tirer sur la pièce
 
-- Pour laver la trace au moment ou l'étain devient mou, approcher votre pompe et aspirer
+- Pour laver la zone au moment. Appliquer votre fer à souder à nouveau et quand l'étain devient mou, approcher votre pompe et aspirer
 
 ![](gui/cap_manual.jpg)
 
@@ -181,7 +183,7 @@ Voici un exemple sur un composant de type Through-hole
 
 Un peu comme le `seasoning` de la pointe à souder, il faut avoir une surface de travail. L'étain utiliser par le fabricant de la carte PCB n'est pas exactement le même que le notre. De plus, avec le temps, il y a des impuretés sur la soudure. 
 
-En placer en surplus va s'assurer de `laver` les impuretés, de contrôle la composition chimique de notre étain et de contrôler la température en stressant le moins possible le pad ou la broche connectée.
+En placer en surplus va s'assurer de `laver` les impuretés, de contrôler la composition chimique de notre étain et de contrôler la température en stressant le moins possible le pad ou la broche connectée.
 
 De plus, avec plus de soudures, on peut profiter d'un effet de suction d'un coup via une tresse, un pistolet ou une pompe. 
 
