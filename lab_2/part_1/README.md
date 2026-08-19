@@ -47,11 +47,11 @@ TBD tresse
 
 - Positionner votre pointe pour qu'elle connecte au 2 pads en même temps
 
-- Une fois l'étain main, balayer le composant et celui-ci va coller à votre pointe. 
+- Une fois l'étain mou, balayer le composant et celui-ci va coller à votre pointe. 
 
 - Refroidir dans l'éponge (Enlever le composant ET enlever l'extra)
 
-- Tresse a dessouder pour l'exces
+- Tresse a dessouder pour l'excès
 
 - Laver le tout avec de l'alcool (Avec brosse à dent, lingette ou papier)
 
@@ -80,7 +80,7 @@ Voici un exemple sur un composant à plusieurs pin Surface-Mount (Avec pistolet 
 
 - Soudure en surplus
 
-- Tresse a dessouder pour l'exces
+- Tresse a dessouder pour l'excès
 
 ![](gui/heat_solder_soic.jpg)
 
