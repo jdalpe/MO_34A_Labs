@@ -38,9 +38,11 @@ TBD tresse
 ![](gui/r2_flux.jpg)
 
 - Préparer votre pointe
+
 ![](gui/seasoned.jpg)
 
 - Pour des composants de ce type, prenez assez d'étain pour couvrir les 2 pad de soudure
+
 ![](gui/r2_over.jpg)
 
 - Positionner votre pointe pour qu'elle connecte au 2 pads en même temps
@@ -52,6 +54,7 @@ TBD tresse
 - Tresse a dessouder pour l'exces
 
 - Laver le tout avec de l'alcool (Avec brosse à dent, lingette ou papier)
+
 ![](gui/r2_remove.jpg)
 
 
@@ -63,27 +66,35 @@ Voici un exemple sur un composant à plusieurs pin Surface-Mount (Avec pistolet 
 
 **SOIC, L-Lead, J-Lead**
 
-- Voici un exemple avec le IC U4
+- Voici un exemple avec le IC `U4`
+
 ![](gui/select_soic.jpg)
 
 - Toujours commencer par appliquer le flux
+
 ![](gui/flux_soic.jpg)
 
 - Préparer votre pointe
+
 ![](gui/seasoned.jpg)
 
 - Soudure en surplus
 
 - Tresse a dessouder pour l'exces
+
 ![](gui/heat_solder_soic.jpg)
 
 - Utiliser le pistolet thermique et placer vos pinces pour pouvoir retirer le composant (idéalement, ne pas appliquer de force sur les pin, juste le contenant noir)
+
 ![](gui/tweezer_soic.jpg)
+
 ![](gui/heated_soic.jpg)
 
 
 - Une fois que les broches brillent (Étain malléable), appliquer une force pour enlever le composant. Commencer par bouger latéralement avant de tirer vers le haut
+
 ![](gui/remove_soic2.jpg)
+
 ![](gui/remove_soic3.jpg)
 
 ------
@@ -94,10 +105,13 @@ Voici un exemple sur un composant de type Through-hole
 #### Pistolet a dessouder
 
 - Enlever le cap bleu
+
 ![](gui/desolder_tip.jpg)
 
 - Insérer l'embout
+
 ![](gui/desolder_tip2.jpg)
+
 ![](gui/desolder_tip3.jpg)
 
 - Démarrer le tout à votre temperature désiré (Autour de 680 est un bon début)
@@ -107,10 +121,12 @@ Voici un exemple sur un composant de type Through-hole
 
 **DIP, Headers, Connecteurs**
 
-- Voici un exemple avec la DEL D51
+- Voici un exemple avec la DEL `D51`
+
 ![](gui/del.jpg)
 
 - Toujours commencer par appliquer le flux
+
 ![](gui/del_flux.jpg)
 
 - Soudure en surplus
@@ -118,9 +134,11 @@ Voici un exemple sur un composant de type Through-hole
 - Avec des pinces de précision `tweezer`, tenir la pièce
 
 - Appliquer le bec du pistolet
+
 ![](gui/del_heated.jpg)
 
 - Au moment ou l'étain devient mou, activer la suction et tirer avec vos pinces
+
 ![](gui/del_after.jpg)
 
 - S'il reste quelques traces de soudure, passer un coup de tresse
@@ -129,12 +147,15 @@ Voici un exemple sur un composant de type Through-hole
 
 Voici un exemple sur un composant de type Through-hole
 (Avec pompe manuelle)
+
 ![](gui/pump.jpg)
 
 **DIP, Headers, Connecteurs**
 
-- Voici un exemple avec le condensateur C13
+- Voici un exemple avec le condensateur `C13`
+
 ![](gui/cap.jpg)
+
 ![](gui/cap_2.jpg)
 
 
@@ -151,6 +172,7 @@ Voici un exemple sur un composant de type Through-hole
 - Au moment ou l'étain devient mou, tirer sur la pièce
 
 - Pour laver la trace au moment ou l'étain devient mou, approcher votre pompe et aspirer
+
 ![](gui/cap_manual.jpg)
 
 - S'il reste quelques traces, passer un coup de tresse
