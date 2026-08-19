@@ -6,12 +6,16 @@ Pondération:
 - Partie 2: 34%
 
 ## Matériels
-- Point de fer à souder
-- Kit de soudure
+- Pointe de fer à souder
+- Pointe de pistolet à dessouder
+- Pompe à dessouder
+- Kit de soudure (Flux, Alcool, pince, ...)
 - Troisième main/étau
 - Un PCB avec composants aux hazards / Carte mère
 
 ## Équipements:
+- Fer à souder
+- Pistolet à dessouder
 - Multimètre
 - Kit de l'étudiant
 

@@ -9,7 +9,7 @@
 >
 > L'enseignant passera à votre station et vous donnera 4 composants à modifier
 >
-> **Si le composant est enlever**: La survie des composants n'est pas importante ici, c'est le PCB qui nous interesse
+> **Si le composant est enlever**: La survie des composants n'est pas importante ici, c'est le PCB qui nous intéresse
 >
 
 

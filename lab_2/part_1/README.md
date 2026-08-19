@@ -12,13 +12,14 @@ Déssouder un circuit est beaucoup plus rare comme manipulation que l'inverse. E
 
 En tant que technicien/ne dans une entreprise, le but est de construire un maximum de circuits avec un taux d'échec minimal (Appeler `yield`). 
 
-Ce laboratoire s'assura de pratiquer pour les cas suivants:
+Ce laboratoire va s'assurer de pratiquer pour les cas suivants:
 
 - Un PCB a été en production trop tôt et il y a des problèmes.
 - Faire un plan (`defect plan`) pour s'assurer du suivi.
 - Vous voulez changer de composants sur une carte
-	- Votre PS5 fonctionne, mais pas votre port HDMI?
-	- Votre AtMega a été survolté et il est décédé?
+	- Cas `Homemade`:
+		- Votre PS5 fonctionne, mais pas votre port HDMI?
+		- Votre AtMega a été survolté et il est décédé?
 
 # Enlever des composants
 
@@ -27,99 +28,132 @@ TBD tresse
 
 **Diode, DEL, Résistance, Condensateur**
 
+- Voici un exemple avec la résistance `R2`
+
+![](gui/r2.jpg)
+
 - Toujours commencer par appliquer le flux
-TBD image 1
+	- En mettre pour couvrir les 2 pads
+
+![](gui/r2_flux.jpg)
 
 - Préparer votre pointe
-TBD image 2
+![](gui/seasoned.jpg)
 
 - Pour des composants de ce type, prenez assez d'étain pour couvrir les 2 pad de soudure
-TBD image 3
+![](gui/r2_over.jpg)
 
-- Soudure en surplus
-TBD image 4
+- Positionner votre pointe pour qu'elle connecte au 2 pads en même temps
+
+- Une fois l'étain main, balayer le composant et celui-ci va coller à votre pointe. 
+
+- Refroidir dans l'éponge (Enlever le composant ET enlever l'extra)
 
 - Tresse a dessouder pour l'exces
-TBD image 5
 
-- Laver le tout avec de l'alcool
-TBD image 6
+- Laver le tout avec de l'alcool (Avec brosse à dent, lingette ou papier)
+![](gui/r2_remove.jpg)
+
 
 
 ------
 
 
-Voici un exemple sur un composant à plusieurs pin Surface-Mount (Sans pistolet thermique)
-TBD tresse
+Voici un exemple sur un composant à plusieurs pin Surface-Mount (Avec pistolet à air chaud) **Commencer le travail à votre station, mais aller à la station des pistolets à air chaud pour enlever votre pièce**
 
 **SOIC, L-Lead, J-Lead**
 
+- Voici un exemple avec le IC U4
+![](gui/select_soic.jpg)
+
 - Toujours commencer par appliquer le flux
-TBD image 1
+![](gui/flux_soic.jpg)
 
 - Préparer votre pointe
-TBD image 2
+![](gui/seasoned.jpg)
 
 - Soudure en surplus
-TBD image 3
 
 - Tresse a dessouder pour l'exces
-TBD image 4
+![](gui/heat_solder_soic.jpg)
 
-- Laver le tout avec de l'alcool
-TBD image 5
+- Utiliser le pistolet thermique et placer vos pinces pour pouvoir retirer le composant (idéalement, ne pas appliquer de force sur les pin, juste le contenant noir)
+![](gui/tweezer_soic.jpg)
+![](gui/heated_soic.jpg)
+
+
+- Une fois que les broches brillent (Étain malléable), appliquer une force pour enlever le composant. Commencer par bouger latéralement avant de tirer vers le haut
+![](gui/remove_soic2.jpg)
+![](gui/remove_soic3.jpg)
 
 ------
 
 Voici un exemple sur un composant de type Through-hole
 (Avec pistolet pour dessouder)
-TBD image pistolet
+
+#### Pistolet a dessouder
+
+- Enlever le cap bleu
+![](gui/desolder_tip.jpg)
+
+- Insérer l'embout
+![](gui/desolder_tip2.jpg)
+![](gui/desolder_tip3.jpg)
+
+- Démarrer le tout à votre temperature désiré (Autour de 680 est un bon début)
+
+- Si la pointe se met à fumer un peu, c'est que la buse est neuve, placer la pointe du pistolet sur l'éponge un moment
+	- Éteindre et le rallumer au moment de l'extraction
 
 **DIP, Headers, Connecteurs**
 
+- Voici un exemple avec la DEL D51
+![](gui/del.jpg)
+
 - Toujours commencer par appliquer le flux
-TBD image 1
+![](gui/del_flux.jpg)
 
-- Chauffer votre pistolet a dessoudure
-TBD image 2
+- Soudure en surplus
 
-- Ajouter un peu d'étain sur la broche à enlever
-TBD image 3
+- Avec des pinces de précision `tweezer`, tenir la pièce
 
 - Appliquer le bec du pistolet
-TBD image 4
+![](gui/del_heated.jpg)
 
-- Au moment ou l'étain devient mou, aspirer
-TBD image 5
+- Au moment ou l'étain devient mou, activer la suction et tirer avec vos pinces
+![](gui/del_after.jpg)
 
-- S'il reste quelques traces, repeter
-TBD image 6
+- S'il reste quelques traces de soudure, passer un coup de tresse
 
 ------
 
 Voici un exemple sur un composant de type Through-hole
 (Avec pompe manuelle)
-TBD image pompe
+![](gui/pump.jpg)
 
 **DIP, Headers, Connecteurs**
 
-- Toujours commencer par appliquer le flux
-TBD image 1
+- Voici un exemple avec le condensateur C13
+![](gui/cap.jpg)
+![](gui/cap_2.jpg)
 
-- Préparer votre pointe de fer à souder (seasoned) et vidé votre pompe manuelle
-TBD image 2
+
+- Toujours commencer par appliquer le flux
+
+- Préparer votre pointe de fer à souder (`seasoned`) et vidé votre pompe manuelle
 
 - Ajouter un peu d'étain sur la broche à enlever
-TBD image 3
+
+- Avec des pinces de précision `tweezer`, tenir la pièce
 
 - Appliquer le fer à souder
-TBD image 4
 
-- Au moment ou l'étain devient mou, approcher votre pompe et aspirer
-TBD image 5
+- Au moment ou l'étain devient mou, tirer sur la pièce
 
-- S'il reste quelques traces, repeter
-TBD image 6
+- Pour laver la trace au moment ou l'étain devient mou, approcher votre pompe et aspirer
+![](gui/cap_manual.jpg)
+
+- S'il reste quelques traces, passer un coup de tresse
 
 ### Pourquoi on réapplique de la soudure?
 
@@ -134,7 +168,9 @@ De plus, avec plus de soudures, on peut profiter d'un effet de suction d'un coup
 >
 > L'enseignant passera à votre station et vous donnera 4 composants à enlever
 >
-> La survie des composants n'est pas importante ici, c'est le PCB qui nous interesse
+> Utiliser la méthode qui vous semble la meilleure pour vos pièces électroniques
+>
+> La survie des composants n'est pas importante ici, c'est le PCB qui nous importe
 >
 
 
