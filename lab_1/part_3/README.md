@@ -88,7 +88,7 @@ Et faire de l'autre côté:
 
 Couvrir votre soudure avec une gaine thermo (heatshrink) est un standard de l'industrie, prenez la gaine **rouge** et **noire**.
 
-> $\color{darkred}{\text{À VÉRIFIER}}$ **Heatshrink Mini brin parallèle**
+> $\color{darkred}{\text{À VÉRIFIER}}$ **Heatshrink Mono brin parallèle**
 > 
 > Pouvez-vous installer la rouge? Sinon la noire (Attendre que le fil soit moins chaud)
 > 
