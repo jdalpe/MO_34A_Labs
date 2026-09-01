@@ -24,7 +24,6 @@ Ce laboratoire va s'assurer de pratiquer pour les cas suivants:
 # Enlever des composants
 
 Voici un exemple sur un composant à 2 pin Surface-Mount 
-TBD tresse
 
 **Diode, DEL, Résistance, Condensateur**
 
