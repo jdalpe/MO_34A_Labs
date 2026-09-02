@@ -2,10 +2,8 @@
 Énoncé: Soudure Through-Hole
 
 Pondération:
-- Partie 1: 0%
-- Partie 2: 30%
-- Partie 3: 30%
-- Partie 4: 40%
+- Partie 1: 36%
+- Partie 2: 64%
 
 ## Matériels
 - 1 X PCB de pratique Through-Hole

@@ -35,18 +35,19 @@ Cette outils permet de dénudeur facilement ce fil sans trop l'endommager. De pl
 
 # Utilisateur sur Pad ou Via
 
-L'usage le plus utile avec un PCB n'est cependant pas via l'enrouleur, il est pour remplacement une trace.
+L'usage le plus utile avec un PCB n'est cependant pas via l'enrouleur, il est principalement utilisé pour remplacer une trace.
 
-en utilisant les pads soudés de votre PCBs de pratique, nous allons 'former' un circuit.
+En utilisant les pads soudés de votre PCBs de pratique, nous allons 'former' un circuit.
 
 Votre PCBs est composer d'au moins 3 résistances, 2 condensateurs, 1 LED et un DIP
 
 À l'aide de Wire Wrap, monter le circuit suivant:
 
-![](gui/circuit.jpg)
+![](gui/circuit.JPG)
 
 Pour ce faire:
 
+- Commencer de n'importe quelle DIP
 - Regarder la polarité de la DEL (Avec votre multimètre au besoin)
 - Regarder la direction des 2 condensateurs
 - Trouver l'indicateur de 'pin 1' sur votre IC
@@ -54,7 +55,7 @@ Pour ce faire:
 
 ![](gui/wirewrap_cut.jpg)
 
-Voici le résultat attendu dans cette configuration:
+Voici comment attaché un Wire Wrap: (La soudure existant est souvent suffisante)
 
 ![](gui/wirewrap_1.jpg)
 
@@ -76,3 +77,7 @@ Voici le résultat attendu dans cette configuration:
 > Montrer à l'enseignant les travaux de soudure
 > 
 > 
+
+> $\color{darkgreen}{\text{QUESTIONS}}$ **Remettez le document questions.docx rempli via Teams**
+>
+> Laboratoire 3 fini!

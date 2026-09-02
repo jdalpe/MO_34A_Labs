@@ -51,6 +51,8 @@ Souder en Through-Hole est simple, mais il faut contrôler sa quantité de soudu
 
 ![](gui/concave.jpg)
 
+- Commencer avec du flux au besoin
+
 - Pour le Through-Hole, assurer un contact solide avant d'appliquer la soudure
 
 ![](gui/solder_1.jpg)
@@ -59,10 +61,6 @@ Souder en Through-Hole est simple, mais il faut contrôler sa quantité de soudu
 
 ![](gui/solder_3.jpg)
 
-![](gui/solder_4.jpg)
-
-
-- Commencer avec du flux au besoin
 
 - Toujours nettoyer après, le flux core de la soudure ou la résine flux peut endommagé le PCB
 
@@ -83,11 +81,11 @@ Le but est d'avoir une soudure propre, mais aussi des composants droits.
 > Souder sur le PCB de pratique les composants demandés
 >
 > - TO-220 (7905)
-> - IC de type DIP
+> - 3 ICs de type DIP
 > - 3 résistances
 > - 2 condensateurs
 > - 1 DEL
-> - 1 Header 2 x 10
+> - 1 Header 2 x 10 (Couper votre 20 broches en 2, placer en parallèle)
 >
 > Le positionnement des composants n'est pas important. Tant qu'il y a de la place pour l'ensemble de ceux-ci
 >
