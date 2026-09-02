@@ -9,17 +9,17 @@
 
 Avec du Wire Wrap (Fil monobrin de gauge AWG 30), il est important d'utiliser un dénudeur et enrouleur spécifique:
 
-![](gui/image.jpg)
+![](gui/wirewrap.jpg)
 
 Cette outils permet de dénudeur facilement ce fil sans trop l'endommager. De plus, on peut enrouler autour de pin de format standard.
 
-Voici un enroulement sur le Header 2X10:
+![](gui/wirewrap_direction.jpg)
 
-![](gui/image.jpg)
+**Note** Pas besoin de faire plusieurs tours, juste assurer un maintien sans soudure
 
 > $\color{gray}{\text{MANIPULATION}}$ **Wire Wrap 1**
 >
-> En utilisant les pins du Headers, utiliser le Wire Wrap et enrouler 6 pairs.
+> En utilisant les pins du Headers, utiliser le Wire Wrap et enrouler 4 pairs.
 >
 > N'importe quelle pairs sur le dessus de la pièce.
 > 
@@ -50,17 +50,19 @@ Pour ce faire:
 - Regarder la polarité de la DEL (Avec votre multimètre au besoin)
 - Regarder la direction des 2 condensateurs
 - Trouver l'indicateur de 'pin 1' sur votre IC
-- Utiliser du Wire Wrap dénuder au minimum:
+- Utiliser du Wire Wrap dénuder au minimum
 
-![](gui/image.jpg)
+![](gui/wirewrap_cut.jpg)
 
 Voici le résultat attendu dans cette configuration:
 
-![](gui/image.jpg)
+![](gui/wirewrap_1.jpg)
 
-![](gui/image.jpg)
+![](gui/wirewrap_2.jpg)
 
-![](gui/image.jpg)
+![](gui/wirewrap_3.jpg)
+
+![](gui/wirewrap_4.jpg)
 
 > $\color{gray}{\text{MANIPULATION}}$ **Wire Wrap 2**
 >

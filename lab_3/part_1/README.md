@@ -12,11 +12,13 @@ L'ensemble des gros composants sur votre PCBs sera en Through-Hole. Malgré qu'i
 Avec votre PCBs de pratique, nous allons souder les composants suivants:
 
 - Un TO-220 (Un 7905)
-- Un IC de type DIP
+- 3 IC de type DIP
 - 3 résistances Through-Hole
 - 3 Condensateurs électrolytique
 - Une DEL Through-Hole
 - Un Header 2X10
+
+![](gui/component.jpg)
 
 # Tips and Tricks (POur soudure Through-Hole)
 
@@ -26,40 +28,47 @@ Avec la soudure Through-Hole, les pièces peuvent glisser vers le bas quand vous
 
 - Plier une patte
 
-![](gui/image.jpg)
+![](gui/folded_pin.jpg)
 
 **NOTE** Redresser toujours la patte après la soudure
 
-![](gui/image.jpg)
+![](gui/unfold.jpg)
 
 - Masking Tape
 
-![](gui/image.jpg)
+![](gui/tape.jpg)
 
 - Maintenir au sol
 
-![](gui/image.jpg)
+![](gui/hold.jpg)
 
 
 ### Soudure propre
 
 Souder en Through-Hole est simple, mais il faut contrôler sa quantité de soudure. Contrairement à un fil, en mettre trop peut endommagé le composant.
 
-- Forme concave (Comme un chapiteau)
+- Forme concave (Comme un chapiteau) (Gauche concave, droite convexe)
 
-![](gui/image.jpg)
+![](gui/concave.jpg)
+
+- Pour le Through-Hole, assurer un contact solide avant d'appliquer la soudure
+
+![](gui/solder_1.jpg)
+
+![](gui/solder_2.jpg)
+
+![](gui/solder_3.jpg)
+
+![](gui/solder_4.jpg)
+
 
 - Commencer avec du flux au besoin
 
-![](gui/image.jpg)
-
 - Toujours nettoyer après, le flux core de la soudure ou la résine flux peut endommagé le PCB
 
-![](gui/image.jpg)
+![](gui/clean.jpg)
 
 - Couper les excédents de pins
-
-![](gui/image.jpg)
 
 
 # Évaluation

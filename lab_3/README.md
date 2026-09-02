@@ -10,7 +10,7 @@ Pondération:
 ## Matériels
 - 1 X PCB de pratique Through-Hole
 - 1 X 7905 (MC7905CT)
-- 1 X DIP
+- 3 X DIP
 - 3 X Resistance
 - 2 X Condensateur Electrolytique
 - 1 X DEL (Jaune)
