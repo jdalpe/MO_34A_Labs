@@ -20,7 +20,7 @@ Avec votre PCBs de pratique, nous allons souder les composants suivants:
 
 ![](gui/component.jpg)
 
-# Tips and Tricks (POur soudure Through-Hole)
+# Tips and Tricks (Pour soudure Through-Hole)
 
 ### Maintenir son composant
 
@@ -62,7 +62,7 @@ Souder en Through-Hole est simple, mais il faut contrôler sa quantité de soudu
 ![](gui/solder_3.jpg)
 
 
-- Toujours nettoyer après, le flux core de la soudure ou la résine flux peut endommagé le PCB
+- Toujours nettoyer après, le flux core de la soudure où la résine flux peut endommager le PCB
 
 ![](gui/clean.jpg)
 
