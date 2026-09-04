@@ -45,7 +45,7 @@ Avec la soudure Through-Hole, les pièces peuvent glisser vers le bas quand vous
 
 ### Soudure propre
 
-Souder en Through-Hole est simple, mais il faut contrôler sa quantité de soudure. Contrairement à un fil, en mettre trop peut endommagé le composant.
+Souder en Through-Hole est simple, mais il faut contrôler sa quantité de soudure. Contrairement à un fil, en mettre trop peut endommager le composant.
 
 - Forme concave (Comme un chapiteau) (Gauche concave, droite convexe)
 
@@ -62,7 +62,7 @@ Souder en Through-Hole est simple, mais il faut contrôler sa quantité de soudu
 ![](gui/solder_3.jpg)
 
 
-- Toujours nettoyer après, le flux core de la soudure où la résine flux peut endommager le PCB
+- Toujours nettoyer après, le flux core de la soudure ou la résine flux. Cela peut endommager le PCB
 
 ![](gui/clean.jpg)
 
