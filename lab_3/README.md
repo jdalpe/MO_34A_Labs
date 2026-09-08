@@ -2,9 +2,9 @@
 Énoncé: Soudure Through-Hole
 
 Pondération:
-- Partie 1: 36%
-- Partie 2: 64%
-- Partie Extra: 1% (Valeur absolue sur le cours 34A)
+- Partie 1: 33%
+- Partie 2: 45%
+- Partie 3: 22% 
 
 ## Matériels
 - 1 X PCB de pratique Through-Hole
@@ -13,7 +13,7 @@ Pondération:
 - 3 X Resistance
 - 2 X Condensateur Electrolytique
 - 1 X DEL (Jaune)
-- 1 X Header 20 positions (2X10)
+- 2 X Header 20 positions (2X10)
 - Wire-Wrap
 
 ## Équipements:

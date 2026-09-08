@@ -1,8 +1,8 @@
-# Laboratoire 3 / Partie Extra
+# Laboratoire 3 / Partie 3
 
 
 
-## Partie Extra:
+## Partie 3:
 - Extension bornier
 
 # Header to Header config
