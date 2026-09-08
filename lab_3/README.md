@@ -37,4 +37,4 @@ Pondération:
 - Wire Wrap
 
 #### Partie Extra:
-- Extension de bornier
+- Extension de connecteur 2.54mm

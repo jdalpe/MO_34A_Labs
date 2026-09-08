@@ -3,13 +3,13 @@
 
 
 ## Partie 3:
-- Extension bornier
+- Extension connecteur
 
 # Header to Header config
 
-Une soudure peu commune, mais tout de même utile est d'allonger des connecteurs/borniers. 
+Une soudure peu commune, mais tout de même utile est d'allonger des connecteurs. 
 
-Un des cas d'utilisation est d'aligner des connecteurs qui sont fixe sur un autre board PCB sur le dessus avec des bornier du même type.
+Un des cas d'utilisation est d'aligner des connecteurs qui sont fixe sur un autre board PCB sur le dessus avec des connecteurs du même type.
 
 Voici comment on les connecte ensemble avant la soudure:
 
