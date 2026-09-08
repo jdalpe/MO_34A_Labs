@@ -4,6 +4,7 @@
 Pondération:
 - Partie 1: 36%
 - Partie 2: 64%
+- Partie Extra: 1% (Valeur absolue sur le cours 34A)
 
 ## Matériels
 - 1 X PCB de pratique Through-Hole
@@ -34,3 +35,6 @@ Pondération:
 
 #### Partie 2:
 - Wire Wrap
+
+#### Partie Extra:
+- Extension de bornier
