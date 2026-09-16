@@ -35,6 +35,18 @@ Voici quelques façons pour préparer ses composants:
 
 ![](gui/img.jpg)
 
+### LEDs??
+
+Avec des DEL/LED, il y a une indication de la direction.
+
+Dans le cas de nos LEDs, le tout est en dessous avec une ligne ├ (Le - est à droite ici)
+
+Dans le cas de certains LEDs, si la tension est petite, il est possible de tester le tout avec le multimètre en mode LED/beeper
+
+![](gui/img.jpg)
+
+![](gui/img.jpg)
+
 ### Forme de la soudure
 
 Pareil comme la soudure Through-Hole, on vise une forme concave si possible. Si le composant est très petit, la soudure peut monter sur le composant et enlever l'excedent peut endommager le tout. **Toujours commencer avec moins de soudure**.
