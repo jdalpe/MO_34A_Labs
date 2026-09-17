@@ -37,45 +37,47 @@ La pâte à souder est un outil puissant, mais qui peut mal se passer si l'appli
 
 - Avec les PCB holder (Morceau bleu 3D print), centrer votre PCB et maintenez le en place
 
-![](gui/img.jpg)
+![](gui/psb_hold.jpg)
 
-![](gui/img.jpg)
+![](gui/pcb_hold_2.jpg)
+
+![](gui/pcb_hold_2.jpg)
 
 - Du côté gauche, placer une zone plate pour déposer votre stencil
 
-![](gui/img.jpg)
+![](gui/back_plate.jpg)
 
 - Aligner votre PCBs sur le stencil pour voir uniquement le métal des pads
 
 - **BON ALIGNEMENT**
 
-![](gui/img.jpg)
+![](gui/align1.jpg)
 
 - **MAUVAIS ALIGNEMENT**
 
-![](gui/img.jpg)
+![](gui/align2.jpg)
 
 - Sécuriser le stencil en place de la gauche
 
-![](gui/img.jpg)
+![](gui/backplane2.jpg)
 
 - Placer de l'étain en pâte sur le stencil (À la gauche)
 
-![](gui/img.jpg)
-
 - Utiliser la petite pelle pour sortir l'étain, mais utiliser une carte pour le positionnement
 
-![](gui/img.jpg)
+![](gui/paste_1.jpg)
+
+![](gui/paste_2.jpg)
 
 - Avec la carte et d'un coup, glisser l'étain sur votre design en maintenant une pression moyenne. **NE PAS ALLER JUSQU'AU BOUT DU STENCIL, JUSTE AU BOUT DU DESIGN**
 
-![](gui/img.jpg)
+![](gui/paste_3.jpg)
 
 - Avec une paire de pince, tenir fermement le bout droite en bas du stencil, et d'un coup, le lever. L'application doit avoir l'air de ceci:
 
-![](gui/img.jpg)
-
 - Avec vos mains ou des pinces (TENIR FERMEMENT EN ÉVITANT DE TOUCHER L'ÉTAIN), amener le PCBs sur la plaque d'aluminium
+
+![](gui/pcb_1.jpg)
 
 - Amener le reste de l'étain dans le pot, enlever les PCBs holder
 
@@ -83,14 +85,14 @@ La pâte à souder est un outil puissant, mais qui peut mal se passer si l'appli
 
 - Placer vos pièces
 
-![](gui/img.jpg)
+![](gui/pcb_done_1.jpg)
 
 - Chauffer le tout uniformément pendant 1 minute
 
 - Repasser sur chacun des composants et arreter quand le tout est brillant
 	- Si un composant s'éloigne, n'essayer pas de l'arrangement maintenant, finaliser votre soudures avant
 
-![](gui/img.jpg)
+![](gui/pcb_done_2.jpg)
 
 **Aller chercher un Header/connecteur 2 pins pour finaliser la soudure, à souder APRÈS la pâte**
 

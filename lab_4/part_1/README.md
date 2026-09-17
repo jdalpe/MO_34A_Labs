@@ -43,9 +43,9 @@ Dans le cas de nos LEDs, le tout est en dessous avec une ligne ├ (Le - est à 
 
 Dans le cas de certains LEDs, si la tension est petite, il est possible de tester le tout avec le multimètre en mode LED/beeper
 
-![](gui/img.jpg)
+![](gui/led_1.jpg)
 
-![](gui/img.jpg)
+![](gui/led_2.jpg)
 
 ### Forme de la soudure
 
@@ -63,27 +63,35 @@ Dans le cas d'un composant à 3 broches, même chose, mais si possible, commence
 
 - Placer un peu de flux
 
-![](gui/img.jpg)
+![](gui/flux_1.jpg)
 
 - Placer assez de soudure sur votre pad pour former un léger bulbe
 
-![](gui/img.jpg)
+**R2**
+![](gui/enough.jpg)
+
+**R5**
+![](gui/enough_2.jpg)
 
 - Prendre le composant avec une paire de pince de précision
 
-![](gui/img.jpg)
+![](gui/placing_1.jpg)
 
 - Avec le fer à souder, maintenir sur le pad pour qu'il soit liquide
 
-![](gui/img.jpg)
-
 - Positionner le composant et relacher le fer quand l'orientation est droite
 
-![](gui/img.jpg)
+
+
+**Attention a placer le composant plat**
+
+![](gui/lifted.jpg)
 
 - Avec du flux, continuer les autres pads
 
-![](gui/img.jpg)
+![](gui/second_side_angle.jpg)
+
+![](gui/align.jpg)
 
 
 ### Soudure Pin 1
@@ -92,40 +100,36 @@ Pour un module à plusieurs broches, l'important est de limiter le positionnemen
 
 - Placer du flux
 
-![](gui/img.jpg)
+![](gui/flux.jpg)
 
 - Positionner votre composant
 	- Votre composant va glisser sur le Flux, mais la suction du liquide va le maintenir plus facilement
 
-![](gui/img.jpg)
+![](gui/align3.jpg)
 
 - Localiser la pin en haut sur la côté de votre fer à souder
 
-![](gui/img.jpg)
-
 - Préparer votre pointe avec un peu de soudure
-
-![](gui/img.jpg)
 
 - Avec une paire de pince, maintenir votre IC en place
 
-![](gui/img.jpg)
+![](gui/maintain.jpg)
 
 - Approcher le pointe à 45 degrée pour éviter de toucher les autres pin
 
-![](gui/img.jpg)
 
 - Souder la pin en haut uniquement 
 
-![](gui/img.jpg)
 
 - Pour solidifier, tourner votre PCB à 180 degrées et faire la même chose
 
-![](gui/img.jpg)
+![](gui/solder_pin_1.jpg)
+
 
 - Une fois le circuit bien en place, remettre du flux et avec un **PEU** de soudure, connecter l'ensemble des traces
 
-![](gui/img.jpg)
+**Ici, voici le MAXIMUM de soudure sur les pins**
+![](gui/maximum_cover.jpg)
 
 
 ### Clean-up et shorts
@@ -136,6 +140,7 @@ Ne pas frotter trop fort avec la brosse sur les DELs, le tout est en plastique, 
 
 La tresse est utilisé pour enlever les court-circuits. Si trop de soudure à été enlever, n'oublier pas d'en ajouter à nouveau!
 
+![](gui/short.jpg)
 
 
 # Évaluation
