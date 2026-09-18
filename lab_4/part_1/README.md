@@ -21,13 +21,12 @@ Contrairement à la soudure Through-Hole, la plupart de nos composants ici sont 
 
 Voici quelques façons pour préparer ses composants:
 
-- Avec du masking tape, noté l'information du composant et du côté collant, place vos copie de composants.
+- Avec du masking tape, noter l'information du composant et du côté collant, placer vos copies de composants.
 	- Pour les prendre à nouveau, enlever-les en premier
 
 ![](gui/tape.jpg)
 
 - Avec des bols ou des diviseurs
-	- Voici l'exemple pour l'ensemble des étudiants, si vous avez un kit similaire, vous pouvez en préparer un pour le laboratoire 4 et 5.
 
 ![](gui/bin.jpg)
 

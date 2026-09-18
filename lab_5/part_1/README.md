@@ -18,13 +18,12 @@ La pâte à souder est un outil puissant, mais qui peut mal se passer si l'appli
 
 À FAIRE AVANT DE COMMENCER LA MANIPULATION
 
-- Avec du masking tape, noté l'information du composant et du côté collant, place vos copie de composants.
+- Avec du masking tape, noter l'information du composant et du côté collant, placer vos copies de composants.
 	- Pour les prendre à nouveau, enlever-les en premier
 
 ![](gui/tape.jpg)
 
 - Avec des bols ou des diviseurs (Autres que celui pour l'ensemble des étudiants)
-	- Voici l'exemple pour l'ensemble des étudiants, si vous avez un kit similaire, vous pouvez en préparer un pour le laboratoire 4 et 5.
 
 ![](gui/bin.jpg)
 
