@@ -21,16 +21,16 @@ La pâte à souder est un outil puissant, mais qui peut mal se passer si l'appli
 - Avec du masking tape, noté l'information du composant et du côté collant, place vos copie de composants.
 	- Pour les prendre à nouveau, enlever-les en premier
 
-![](gui/img.jpg)
+![](gui/tape.jpg)
 
 - Avec des bols ou des diviseurs (Autres que celui pour l'ensemble des étudiants)
 	- Voici l'exemple pour l'ensemble des étudiants, si vous avez un kit similaire, vous pouvez en préparer un pour le laboratoire 4 et 5.
 
-![](gui/img.jpg)
+![](gui/bin.jpg)
 
 - Avec une feuille, noté l'ensemble des composants et apposé un tape pour ne pas les perdre
 
-![](gui/img.jpg)
+![](gui/paper.jpg)
 
 
 ## Étape de la soudure avec pâte
