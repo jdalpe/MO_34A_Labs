@@ -41,7 +41,7 @@ La pâte à souder est un outil puissant, mais qui peut mal se passer si l'appli
 
 ![](gui/pcb_hold_2.jpg)
 
-![](gui/pcb_hold_2.jpg)
+![](gui/pcb_hold_3.jpg)
 
 - Du côté gauche, placer une zone plate pour déposer votre stencil
 
@@ -75,13 +75,13 @@ La pâte à souder est un outil puissant, mais qui peut mal se passer si l'appli
 
 - Avec une paire de pince, tenir fermement le bout droite en bas du stencil, et d'un coup, le lever. L'application doit avoir l'air de ceci:
 
-- Avec vos mains ou des pinces (TENIR FERMEMENT EN ÉVITANT DE TOUCHER L'ÉTAIN), amener le PCBs sur la plaque d'aluminium
-
 ![](gui/pcb_1.jpg)
+
+- Avec vos mains ou des pinces (TENIR FERMEMENT EN ÉVITANT DE TOUCHER L'ÉTAIN), amener le PCBs sur la plaque d'aluminium
 
 - Amener le reste de l'étain dans le pot, enlever les PCBs holder
 
-- Avec des essuis-tout, laver votre stencil
+- Avec des essuis-tout, laver votre stencil à l'alcool et de l'eau
 
 - Placer vos pièces
 
@@ -103,7 +103,7 @@ Vos 2 outils pour cleaner le tout sont l'alcool ET la tresse à dessouder.
 
 Ne pas frotter trop fort avec la brosse sur les DELs, le tout est en plastique, et endommager la lentille va affecter la qualité d'éclairage.
 
-La tresse est utilisé pour enlever les court-circuits. Si trop de soudure à été enlever, n'oublier pas d'en ajouter à nouveau!
+La tresse est utilisée pour enlever les court-circuits. Si trop de soudure à été enlever, n'oublier pas d'en ajouter à nouveau!
 
 
 

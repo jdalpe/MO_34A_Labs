@@ -129,6 +129,7 @@ Pour un module à plusieurs broches, l'important est de limiter le positionnemen
 - Une fois le circuit bien en place, remettre du flux et avec un **PEU** de soudure, connecter l'ensemble des traces
 
 **Ici, voici le MAXIMUM de soudure sur les pins**
+
 ![](gui/maximum_cover.jpg)
 
 
@@ -138,7 +139,7 @@ Vos 2 outils pour cleaner le tout sont l'alcool ET la tresse à dessouder.
 
 Ne pas frotter trop fort avec la brosse sur les DELs, le tout est en plastique, et endommager la lentille va affecter la qualité d'éclairage.
 
-La tresse est utilisé pour enlever les court-circuits. Si trop de soudure à été enlever, n'oublier pas d'en ajouter à nouveau!
+La tresse est utilisée pour enlever les court-circuits. Si trop de soudure à été enlever, n'oublier pas d'en ajouter à nouveau!
 
 ![](gui/short.jpg)
 
