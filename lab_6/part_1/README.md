@@ -109,23 +109,36 @@ Voici la modification:
 
 #### Changer D1 et D12 pour des LEDs verte 
 
-![](gui/img.JPG)
+![](gui/led_status.JPG)
 
 #### Vitesse autour de X4 pour le 555 
 
-![](gui/img.JPG)
+![](gui/555.JPG)
 
 #### Couper l’entrée de l’onde carré dans le 4017
 
-![](gui/img.JPG)
+![](gui/link_555.JPG)
+
+Voici le `Header` et `Jumper` utiliser comme sélecteur. La pin vide peut servir pour injecter un signal
+
+![](gui/with.JPG)
+
+![](gui/without.JPG)
+
 
 #### CE du 4017
 
-![](gui/img.JPG)
+![](gui/link_en.JPG)
+
+Voici le `Header` et `Jumper` utiliser comme sélecteur. La pin vide peut servir pour injecter un signal
+
+![](gui/with.JPG)
+
+![](gui/without.JPG)
 
 #### Ajouter une DEL verte à l'alimentation
 
-![](gui/img.JPG)
+![](gui/led_alim.JPG)
 
 # Évaluation
 
