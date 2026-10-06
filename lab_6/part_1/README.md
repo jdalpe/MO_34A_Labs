@@ -60,52 +60,52 @@ Voici chacune des modifications sur la schéma électrique:
 
 Les DELs/LEDs ne sont pas annoté sur le PCB, voici l'ordre:
 
-![](gui/led_d2_5.JPG)
+![](gui/led.JPG)
 
 Voici la modification:
 
-![](gui/img.JPG)
+![](gui/led_d2_5.JPG)
 
 
 #### Inverser D3 et D4  
 
 Les DELs/LEDs ne sont pas annoté sur le PCB, voici l'ordre:
 
-![](gui/led_d3_4.JPG)
+![](gui/led.JPG)
 
 Voici la modification:
 
-![](gui/img.JPG)
+![](gui/led_d3_4.JPG)
 
 #### Inverser D6 et D11  
 
 Les DELs/LEDs ne sont pas annoté sur le PCB, voici l'ordre:
 
-![](gui/led_d6_11.JPG)
+![](gui/led.JPG)
 
 Voici la modification:
 
-![](gui/img.JPG)
+![](gui/led_d6_11.JPG)
 
 #### Inverser D7 et D9  
 
 Les DELs/LEDs ne sont pas annoté sur le PCB, voici l'ordre:
 
-![](gui/led_d7_9.JPG)
+![](gui/led.JPG)
 
 Voici la modification:
 
-![](gui/img.JPG)
+![](gui/led_d7_9.JPG)
 
 #### Inverser D8 et D10 
 
 Les DELs/LEDs ne sont pas annoté sur le PCB, voici l'ordre:
 
-![](gui/led_d8_10.JPG)
+![](gui/led.JPG)
 
 Voici la modification:
 
-![](gui/img.JPG)
+![](gui/led_d8_10.JPG)
 
 #### Changer D1 et D12 pour des LEDs verte 
 
