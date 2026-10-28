@@ -71,6 +71,8 @@ Les nouveaux modules de type `U` sont plus nombreux que le compteur. Chacun est 
 - CH340G: Il s'agit du module en charge de la communication (et programmation) du AtMega. Il est essentiel pour programmer, mais pour pour executer le programme.
 - Régulateur: Essentiel si on utilise une alimentation externe autre que le USB-C, il fourni jusqu'à 800mA.
 
+**Toujours bien vérifier pour la pin 1 sur les formats TQFN(Atmega) et SOIC(CH340G) est bien suivi, ça peut être une indication comme un cercle ou même une barre**
+
 
 # Évaluation
 
