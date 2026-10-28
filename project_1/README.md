@@ -1,22 +1,19 @@
-# Laboratoire 1
-Énoncé: Comprendre la plateforme Arduino
+# Projet
+Énoncé: Souder et faire fonctionner le PCB
 
 Pondération:
-- Partie 1: 0%
-- Partie 2: 30%
-- Partie 3: 30%
-- Partie 4: 40%
+- Partie 1: TBD%
+- Partie 2: TBD%
+- Partie 3: TBD%
+- Partie 4: TBD%
+- Partie 5: TBD%
+- Partie 6: TBD%
 
 ## Matériels
-- 1 X Arduino Mega 2560 Rev3
-- 1 X Fils USB (Type A -- Type B)
-- 1 X PLaquette de montage
-- 1 X Interrupteur de type bouton poussoir
-- 1 X Resistance de 220 Ω
-- 1 X Resistance de ~20 kΩ
-- 1 X DEL rouge
-- 1 X Potentiomètre de 10 kΩ
-- Fils de prototypage (Environ 12)
+- 1 X PCBs
+- 1 X BOMs
+- 2 X Cable banane
+- Fils de prototypage
 
 ## Équipements:
 - Oscilloscope
@@ -26,25 +23,29 @@ Pondération:
 
 
 ## Datasheets
-- atmel-2549-8-bit-avr-microcontroller-atmega640-1280-1281-2560-2561_datasheet.pdf
-- arduino-mega-2560-datasheet.pdf
+- atmel.pdf
+- usb4930.pdf
 
 
 ## Pinout
-- arduino-mega2560-pinout.pdf
-- arduino-mega2560-schematic.pdf
+- arduino_nano.pdf
+- bom_arduino_nano.xlsx
 
 
 #### Partie 1:
-- Comprendre comment accéder au Github
-- Comprendre l'interface Arduino
-- Connaître les I/O du AtMega
+- Assemblage avec pâte de la moitié du PCB (Surface-mount)
 
 #### Partie 2:
-- Exemple minimaliste
+- Assemblage manuelle de la moitié du PCB (Surface-mount)
 
 #### Partie 3:
-- Exemple Pulse Width Modulation
+- Partie Through-hole essentielle (1/3)
 
 #### Partie 4:
-- Communication intermatérielle
+- Partie Through-hole essentielle (2/3)
+
+#### Partie 5:
+- Partie Through-hole essentielle (3/3)
+
+#### Partie 6:
+- Assemble et test complet
