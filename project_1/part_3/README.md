@@ -227,7 +227,7 @@ void loop() {
 
 > $\color{darkgreen}{\text{À NOTER}}$ **Partie 3**
 >
-> Remplir le document avec les oscilloscopes
+> Remplir le document avec les prises d'oscilloscope ET les sorties sérielle
 > 
 > 
 
@@ -241,6 +241,9 @@ void loop() {
 > - Utiliser et modifier le code dans `Lecture Analogique` pour tester l'ensemble des pins analogiques. Brancher un potentiometre avec la configuration suivantes:
 > 
 > // Pin 1 <-> VCC
+>
 > // Pin 2 <-> A0...7
+>
 > // Pin 3 <-> GND
+>
 > 

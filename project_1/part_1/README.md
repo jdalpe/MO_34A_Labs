@@ -11,7 +11,7 @@ Voici le projet final du cours de Diagnostic et circuits.
 
 Le but ici est simple, réaliser un PCB fonctionnel avec un nombre de pièces limités, un seul PCB et passer par l'ensemble des moyens que vous avez appris durant cette session.
 
-Un PCB non-fonctionne ne neut pas dire un échec, mais beaucoup plus de test...
+Un PCB non-fonctionnel ne veut pas dire un échec, mais beaucoup plus de test...
 
 Pour la première étape, la classe sera divisé en deux, le but est de laisser l'ensemble des personnes prendre un temps raisonnable pour la pâte à souder. Votre stencil sera couvert à moitié, vous devez tout d'abord préparer une feuille avec votre demi-BOM avant de venir appliquer votre pâte.
 
@@ -19,7 +19,7 @@ Voici le stencil couvert:
 
 ![](gui/kapton.JPG)
 
-Voici les composants que seront souder avec la pâte.
+Voici les composants qui seront souder avec la pâte.
 
 Aller voir le BOM dans la section `pinout` (bom_arduino_nano) pour trouver les valeurs.
 
@@ -32,7 +32,7 @@ Aller voir le BOM dans la section `pinout` (bom_arduino_nano) pour trouver les v
 
 Aller vous placer à une station de pâte quand vous êtes prêt.
 
-**Ne pas préparer le BOM complet, si vous n'avez pas le temps de complété, votre feuille (Et les composants) ne survivra pas 1 semaine dans un sac..**
+**Ne pas préparer le BOM complet, si vous n'avez pas le temps de compléter, votre feuille (Et les composants) ne survivra pas 1 semaine dans un sac..**
 
 ## Placement
 
@@ -46,7 +46,7 @@ Il n'y a pas de polarité, mais attendez à la partie 3 pour le souder.
 
 #### Diode simple (Surface-mount)
 
-Il y a 2 diodes, utiliser le schéma électrique pour voir l'orientation. Comme les DELs/LEDs, ils ont une indicateur via une ligne, mais utilisé votre multimètre en mode `diode` pour voir l'orientation.
+Il y a 2 diodes, utiliser le schéma électrique pour voir l'orientation. Comme les DELs/LEDs, ils ont une indicateur via une ligne, mais utiliser votre multimètre en mode `diode` pour voir l'orientation.
 
 #### Point de diode
 

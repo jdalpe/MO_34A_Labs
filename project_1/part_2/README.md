@@ -32,7 +32,7 @@ Il n'y a pas de polarité, mais attendez à la partie 3 pour le souder.
 
 #### Diode simple (Surface-mount)
 
-Il y a 2 diodes, utiliser le schéma électrique pour voir l'orientation. Comme les DELs/LEDs, ils ont une indicateur via une ligne, mais utilisé votre multimètre en mode `diode` pour voir l'orientation.
+Il y a 2 diodes, utiliser le schéma électrique pour voir l'orientation. Comme les DELs/LEDs, ils ont une indicateur via une ligne, mais utiliser votre multimètre en mode `diode` pour voir l'orientation.
 
 #### Point de diode
 
@@ -73,6 +73,6 @@ Les nouveaux modules de type `U` sont plus nombreux que le compteur. Chacun est 
 
 > $\color{darkgreen}{\text{À NOTER}}$ **Partie 2**
 >
-> Prendre une photo de votre PCB à moitié rempli et ajouter la photo dans le rapport
+> Prendre une photo de votre PCB et ajouter la photo dans le rapport
 > 
 > 
