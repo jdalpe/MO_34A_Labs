@@ -64,6 +64,9 @@ La meilleur façon est d'identifier + et -. Regarder dans quelle directions vont
 
 Le port USB-C est quasiment impossible à faire à la souduire conventionnel, les pointes ne peuvent pas souder les pâtes sans brûler la section en plastique, bien suivre les instructions de l'enseignant pour ce composant en particulier.
 
+#### Bornier à vis
+Les borniers sont assez gros, assurez-vous d'aligner le tout pour avoir des connecteurs droits.
+
 #### AtMega, Régulateur et CH340
 Les nouveaux modules de type `U` sont plus nombreux que le compteur. Chacun est essentiel au fonctionnement, mais voici le rôle de chacun.
 
@@ -84,8 +87,8 @@ Les nouveaux modules de type `U` sont plus nombreux que le compteur. Chacun est 
 > 
 
 
-> $\color{darkgree}{\text{À NOTER}}$ **Partie 1**
+> $\color{darkgreen}{\text{À NOTER}}$ **Partie 1**
 >
-> Prendre une photo de votre PCBs à moitié rempli et ajouter la photo dans le rapport
+> Prendre une photo de votre PCB à moitié rempli et ajouter la photo dans le rapport
 > 
 > 
