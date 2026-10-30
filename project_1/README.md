@@ -2,12 +2,12 @@
 Énoncé: Souder et faire fonctionner le PCB
 
 Pondération:
-- Partie 1: TBD%
-- Partie 2: TBD%
-- Partie 3: TBD%
-- Partie 4: TBD%
-- Partie 5: TBD%
-- Partie 6: TBD%
+- Partie 1: 18%
+- Partie 2: 18%
+- Partie 3: 28%
+- Partie 4: 18%
+- Partie 5: 10%
+- Partie 6: 8%
 
 ## Matériels
 - 1 X PCBs
@@ -21,11 +21,10 @@ Pondération:
 - Sonde d'oscilloscope
 - Kit de l'étudiant
 
-
 ## Datasheets
 - atmel.pdf
 - usb4930.pdf
-
+- pont.pdf
 
 ## Pinout
 - arduino_nano.pdf
