@@ -2,7 +2,7 @@
 
 
 
-## Partie 2:
+## Partie 3:
 - Partie Through-hole essentielle (1/3)
 
 ## Intro
@@ -25,6 +25,10 @@ Le but est de placer un programme dans votre AtMega pour le reprogrammer ET l'ut
 Une fois le bootloader graver sur votre système, ouvrer votre document rapport.docx et prendre les mesures avec les differents programmes. 
 
 **Utiliser le Arduino IDE pour placer les programmes à l'intérieur, regarder la zone en bas pour voir l'ensemble des manipulations.**
+
+Configuration au branchement du Arduino IDE:
+
+![](gui/arduino.JPG)
 
 ## Programme utile pour la test de rapport
 
