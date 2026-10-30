@@ -50,6 +50,24 @@ La meilleur façon est d'identifier + et -. Regarder dans quelle directions vont
 
 Le port USB-C est quasiment impossible à faire à la souduire conventionnel, les pointes ne peuvent pas souder les pâtes sans brûler la section en plastique, bien suivre les instructions de l'enseignant pour ce composant en particulier.
 
+Voici aussi un visuel:
+
+- Prendre le composant avec une paire de pince (Dans le trou du connecteur)
+
+![](gui/usb1.JPG)
+
+- Déposer les pates arrière Trhough-Hole en premier
+
+![](gui/usb2.JPG)
+
+- Descendre le restant du composant
+
+![](gui/usb3.JPG)
+
+- Lâcher le tout
+
+![](gui/usb4.JPG)
+
 #### Bornier à vis
 Les borniers sont assez gros, assurez-vous d'aligner le tout pour avoir des connecteurs droits.
 

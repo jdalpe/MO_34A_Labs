@@ -48,4 +48,4 @@ Pondération:
 - Partie Through-hole essentielle (3/3)
 
 #### Partie 6:
-- Assemble et test complet
+- Ensemble
