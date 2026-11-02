@@ -66,11 +66,15 @@ Le port USB-C est quasiment impossible à faire à la souduire conventionnel, le
 
 Voici aussi un visuel:
 
+- Appliquer la pâte avant de placer le composant.
+
+![](gui/usb0.JPG)
+
 - Prendre le composant avec une paire de pince (Dans le trou du connecteur)
 
 ![](gui/usb1.JPG)
 
-- Déposer les pates arrière Trhough-Hole en premier
+- Déposer les pates arrière Through-Hole en premier
 
 ![](gui/usb2.JPG)
 
